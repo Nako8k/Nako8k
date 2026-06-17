@@ -5,10 +5,8 @@
 - <b>Azure IAM Lab (Microsoft Azure)</b>
   - [IAM and RBAC Azure lab](https://github.com/Nako8k/azure-IAM-lab)
 
-<h2> My Projects:</h2>
-
-- <b>Azure IAM Lab (Microsoft Azure)</b>
-  - [IAM and RBAC Azure lab](https://github.com/Nako8k/azure-IAM-lab) 
+- <b>Azure Storage lab (Microsoft Azure)</b>
+  - [Storage and access](https://github.com/Nako8k/Azure-Storage-lab)
 
 <h2> My certifications</h2>
 
