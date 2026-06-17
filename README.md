@@ -16,9 +16,3 @@
 - [🛡️CompTIA Security+](https://www.credly.com/badges/72722038-2a04-497c-bf05-790a706282c1/public_url)
 - [🌐CompTIA Network+](https://www.credly.com/badges/b3dc755d-3872-4a8e-b4eb-ad495e040611/public_url)
 - [🏆CompTIA CSAP](https://www.credly.com/badges/0e7a31d8-7932-4f3e-b570-5ca12aa0d829/public_url)
-
-<h2> 😄 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/tumanako-cassidy-670847415
