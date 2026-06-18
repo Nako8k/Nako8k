@@ -1,12 +1,27 @@
 <h1>✨Kia ora, I'm Tumanako!✨ <br/><a href="https://github.com/Nako8k">IT professional</a>, <a href="https://www.linkedin.com/in/tumanako-cassidy-670847415/">Aspiring Cyber Security Analyst</a>, <a href="https://nz.seek.com/profiles/tumanako-cassidy-0m1DGgYSCw">Seek</a></h1>
 
-<h2> My Labs:</h2>
+---
 
-- <b>Azure IAM Lab (Microsoft Azure)</b>
+## My Labs and Projects:
+
+- <b>Azure Labs (Microsoft Azure)</b>
   - [IAM and RBAC Azure lab](https://github.com/Nako8k/azure-IAM-lab)
 
-- <b>Azure Storage lab (Microsoft Azure)</b>
   - [Storage and access](https://github.com/Nako8k/Azure-Storage-lab)
+
+  - [VM and Admin](https://github.com/Nako8k/Azure-VM-Admin-lab) 
+
+  - [VNet and Peering](https://github.com/Nako8k/Azure-VNet-lab)
+
+- <b>Defender and Sentinel labs (Microsoft)<b> 
+
+  -
+
+  -
+
+  -
+
+---
 
 <h2> My certifications</h2>
 
