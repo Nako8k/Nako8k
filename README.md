@@ -4,6 +4,8 @@
 
 ## My Labs and Projects:
 
+---
+
 - <b>Azure Labs (Microsoft Azure)</b>
   - [IAM and RBAC Azure lab](https://github.com/Nako8k/azure-IAM-lab)
 
@@ -13,13 +15,41 @@
 
   - [VNet and Peering](https://github.com/Nako8k/Azure-VNet-lab)
 
-- <b>Defender and Sentinel labs (Microsoft)<b> 
+  - VM-Scalesets-LoadBalancer-and-Monitoring
 
-  -
+  - Azure-Governance-Policy-and-Cost-Control
 
-  -
+  - Azure-DNS-and-Custom-Domain-Routing
 
-  -
+  - Azure-App-Service-and-Autoscale-Deployment
+
+  - Azure-Key-Vault-Secrets-and-Disk-Encryption
+
+  - Azure-Monitor-Alerts-and-Log-Analytics
+  
+---
+
+- <b>Defender and Sentinel labs TBC (Microsoft)<b> 
+
+  - Sentinel-Workspace-Foundations
+
+  - Azure-Data-Connector-Pipeline
+
+  - MDE-Endpoint-Onboarding-and-Hardening
+
+  - KQL-Threat-Detection-Queries
+
+  - Sentinel-Analytics-Rules-and-Detections
+
+  - SOAR-Playbook-Automation
+
+  - Incident-Investigation-and-Response
+
+  - MDE-Live-Response-and-Forensics
+
+  - Purview-Audit-and-M365-Threat-Investigation
+
+  - Sentinel-Threat-Hunting-and-Notebooks
 
 ---
 
