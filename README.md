@@ -13,9 +13,9 @@
 
   - [VNet and Peering](https://github.com/Nako8k/Azure-VNet-lab)
 
-  - VM-Scalesets-LoadBalancer-and-Monitoring
+  - [Azure-Governance-Policy-and-Cost-Control](https://github.com/Nako8k/Azure-Governance-Policy-and-Cost-Control/tree/main)
 
-  - Azure-Governance-Policy-and-Cost-Control
+  - VM-Scalesets-LoadBalancer-and-Monitoring
 
   - Azure-DNS-and-Custom-Domain-Routing
 
