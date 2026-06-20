@@ -11,8 +11,6 @@
 
   - [Storage and access](https://github.com/Nako8k/Azure-Storage-lab)
 
-  - [VM and Admin](https://github.com/Nako8k/Azure-VM-Admin-lab) 
-
   - [VNet and Peering](https://github.com/Nako8k/Azure-VNet-lab)
 
   - VM-Scalesets-LoadBalancer-and-Monitoring
