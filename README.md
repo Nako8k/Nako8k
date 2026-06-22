@@ -15,15 +15,15 @@
 
   - [Azure-Governance-Policy-and-Cost-Control](https://github.com/Nako8k/Azure-Governance-Policy-and-Cost-Control/tree/main)
 
-  - VM-Scalesets-LoadBalancer-and-Monitoring
-
+  - [Azure-Monitor-Alerts-and-Log-Analytics](https://github.com/Nako8k/Azure-Monitor-Alerts-and-Log-Analytics)
+    
   - Azure-DNS-and-Custom-Domain-Routing
 
   - Azure-App-Service-and-Autoscale-Deployment
 
   - Azure-Key-Vault-Secrets-and-Disk-Encryption
-
-  - Azure-Monitor-Alerts-and-Log-Analytics
+ 
+  - VM-Scalesets-LoadBalancer-and-Monitoring
   
 ---
 
