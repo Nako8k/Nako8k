@@ -113,3 +113,30 @@
 | 14 | AI Threat Modelling Lab | STRIDE threat model on an AI/Copilot integration, documented as a security review | Upcoming |
 
 ---
+
+## Python for Security Automation
+> Scripting for real SOC and cloud security tasks — not general Python, security-specific automation.
+ 
+**Tools & Libraries:** Python 3, Requests, Pandas, Azure SDK, VirusTotal API, Microsoft Sentinel REST API
+ 
+| # | Lab | Focus | Status |
+|---|-----|-------|--------|
+| P1 | API Integration Lab | Query VirusTotal & push enriched IOCs into Sentinel watchlists | Upcoming |
+| P2 | Log Parsing & Triage Automation | Parse Windows event logs and auto-tag high-risk entries | Upcoming |
+| P3 | Threat Intel Ingestion Pipeline | Pull threat feeds, normalise data, ingest into Sentinel automatically | Upcoming |
+| P4 | IR Automation Script | Auto-enrich Sentinel incidents with asset info, threat scores & suggested actions | Upcoming |
+ 
+---
+ 
+## KQL Deep Dive
+> Going beyond basic queries — production-grade detection logic, correlation rules, and Sentinel dashboards.
+ 
+**Platform:** Microsoft Sentinel · Log Analytics Workspace · Defender XDR
+ 
+| # | Lab | Focus | Status |
+|---|-----|-------|--------|
+| K1 | Advanced Operators & Functions | Time-series analysis, anomaly scoring, let/mv-expand patterns | Upcoming |
+| K2 | Cross-Table Correlation Lab | Join operations across SigninLogs, SecurityEvent, DeviceEvents | Upcoming |
+| K3 | Detection Rule Optimisation | Rewrite noisy rules to reduce false positives without missing real threats | Upcoming |
+
+---
