@@ -91,9 +91,9 @@
  
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
-| 06 | Defender for Cloud / CSPM | Deploy vulnerable Azure env, flag and remediate | Upcoming |
-| 07 | Zero Trust Architecture | Conditional Access, PIM, JIT VM access, MFA | Upcoming |
-| 08 | Azure AD Identity Attack & Defend | Simulate password spray + token theft, detect with Defender for Identity | Upcoming |
+| 01 | Defender for Cloud / CSPM | Deploy vulnerable Azure env, flag and remediate | Upcoming |
+| 02 | Zero Trust Architecture | Conditional Access, PIM, JIT VM access, MFA | Upcoming |
+| 03 | Azure AD Identity Attack & Defend | Simulate password spray + token theft, detect with Defender for Identity | Upcoming |
  
 ---
  
@@ -103,14 +103,14 @@
 ### AI as a Security Tool
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
-| 11 | AI-Assisted KQL Detection Lab | Use Copilot for Security to write, improve and explain KQL queries | Upcoming |
-| 12 | AI Threat Intel Summarisation Lab | LLM workflow to auto-summarise IOCs, TTPs and detection recommendations | Upcoming |
+| 01 | AI-Assisted KQL Detection Lab | Use Copilot for Security to write, improve and explain KQL queries | Upcoming |
+| 02 | AI Threat Intel Summarisation Lab | LLM workflow to auto-summarise IOCs, TTPs and detection recommendations | Upcoming |
  
 ### Securing AI Systems
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
-| 13 | Prompt Injection Attack & Defend Lab | Demonstrate and mitigate prompt injection on an LLM-backed app | Upcoming |
-| 14 | AI Threat Modelling Lab | STRIDE threat model on an AI/Copilot integration, documented as a security review | Upcoming |
+| 03 | Prompt Injection Attack & Defend Lab | Demonstrate and mitigate prompt injection on an LLM-backed app | Upcoming |
+| 04 | AI Threat Modelling Lab | STRIDE threat model on an AI/Copilot integration, documented as a security review | Upcoming |
 
 ---
 
@@ -121,10 +121,10 @@
  
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
-| P1 | API Integration Lab | Query VirusTotal & push enriched IOCs into Sentinel watchlists | Upcoming |
-| P2 | Log Parsing & Triage Automation | Parse Windows event logs and auto-tag high-risk entries | Upcoming |
-| P3 | Threat Intel Ingestion Pipeline | Pull threat feeds, normalise data, ingest into Sentinel automatically | Upcoming |
-| P4 | IR Automation Script | Auto-enrich Sentinel incidents with asset info, threat scores & suggested actions | Upcoming |
+| 01 | API Integration Lab | Query VirusTotal & push enriched IOCs into Sentinel watchlists | Upcoming |
+| 02 | Log Parsing & Triage Automation | Parse Windows event logs and auto-tag high-risk entries | Upcoming |
+| 03 | Threat Intel Ingestion Pipeline | Pull threat feeds, normalise data, ingest into Sentinel automatically | Upcoming |
+| 04 | IR Automation Script | Auto-enrich Sentinel incidents with asset info, threat scores & suggested actions | Upcoming |
  
 ---
  
@@ -135,8 +135,8 @@
  
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
-| K1 | Advanced Operators & Functions | Time-series analysis, anomaly scoring, let/mv-expand patterns | Upcoming |
-| K2 | Cross-Table Correlation Lab | Join operations across SigninLogs, SecurityEvent, DeviceEvents | Upcoming |
-| K3 | Detection Rule Optimisation | Rewrite noisy rules to reduce false positives without missing real threats | Upcoming |
+| 01 | Advanced Operators & Functions | Time-series analysis, anomaly scoring, let/mv-expand patterns | Upcoming |
+| 02 | Cross-Table Correlation Lab | Join operations across SigninLogs, SecurityEvent, DeviceEvents | Upcoming |
+| 03 | Detection Rule Optimisation | Rewrite noisy rules to reduce false positives without missing real threats | Upcoming |
 
 ---
