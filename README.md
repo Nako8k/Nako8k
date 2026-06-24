@@ -40,13 +40,13 @@
 
   - [Azure-Monitor-Alerts-and-Log-Analytics](https://github.com/Nako8k/Azure-Monitor-Alerts-and-Log-Analytics)
     
+  - [VM-Scalesets-LoadBalancer-and-Monitoring](https://github.com/Nako8k/VM-Scalesets-LoadBalancer-and-Monitoring)
+
   - Azure-DNS-and-Custom-Domain-Routing
 
   - Azure-App-Service-and-Autoscale-Deployment
 
   - Azure-Key-Vault-Secrets-and-Disk-Encryption
- 
-  - VM-Scalesets-LoadBalancer-and-Monitoring
   
 ---
 
