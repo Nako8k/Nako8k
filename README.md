@@ -39,8 +39,6 @@
   - [Azure-Governance-Policy-and-Cost-Control](https://github.com/Nako8k/Azure-Governance-Policy-and-Cost-Control/tree/main)
 
   - [Azure-Monitor-Alerts-and-Log-Analytics](https://github.com/Nako8k/Azure-Monitor-Alerts-and-Log-Analytics)
-    
-  - [VM-Scalesets-LoadBalancer-and-Monitoring](https://github.com/Nako8k/VM-Scalesets-LoadBalancer-and-Monitoring)
 
   - Azure-DNS-and-Custom-Domain-Routing
 
