@@ -40,11 +40,7 @@
 
   - [Azure-Monitor-Alerts-and-Log-Analytics](https://github.com/Nako8k/Azure-Monitor-Alerts-and-Log-Analytics)
 
-  - [Azure-DNS-and-Custom-Domain-Routing](https://github.com/Nako8k/Azure-DNS-and-Custom-Domain-Routing)
-
   - [Azure-App-Service-and-Autoscale-Deployment](https://github.com/Nako8k/Azure-App-Service-and-Autoscale-Deployment)
-
-  - [Azure-Key-Vault-Secrets-and-Disk-Encryption](https://github.com/Nako8k/Azure-Key-Vault-Secrets-and-Disk-Encryption)
   
 ---
 
