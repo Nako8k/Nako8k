@@ -7,8 +7,8 @@
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-E5202A?style=for-the-badge&logo=comptia&logoColor=white)
 ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-E5202A?style=for-the-badge&logo=comptia&logoColor=white)
 ![CSAP](https://img.shields.io/badge/CompTIA_CSAP%2B-E5202A?style=for-the-badge&logo=comptia&logoColor=white)
-![AZ-104](https://img.shields.io/badge/AZ--104_In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SC-200](https://img.shields.io/badge/SC--200_In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104_-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SC-200](https://img.shields.io/badge/SC--200_-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 - [CompTIA CySA+](https://www.credly.com/badges/1c035407-32e3-46b9-b3de-b989025d1d81/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/72722038-2a04-497c-bf05-790a706282c1/public_url)
