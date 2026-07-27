@@ -14,7 +14,7 @@
 - [CompTIA Security+](https://www.credly.com/badges/72722038-2a04-497c-bf05-790a706282c1/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/b3dc755d-3872-4a8e-b4eb-ad495e040611/public_url)
 - [CompTIA CSAP](https://www.credly.com/badges/0e7a31d8-7932-4f3e-b570-5ca12aa0d829/public_url)
-
+- [Az-104](https://learn.microsoft.com/api/credentials/share/en-us/Tumanako-3799/AF18BB51C070A4CD?sharingId=5E09FA5FCD2C11CC)
 ---
 
 ## Tools 
