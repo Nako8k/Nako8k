@@ -44,9 +44,9 @@
   
 ---
 
-- <b>Defender and Sentinel labs TBC (Microsoft)<b> 
+- <b>Defender and Sentinel labs (Microsoft)<b> 
 
-  - Sentinel-Workspace-Foundations
+  - [Sentinel-Workspace-Foundations](https://github.com/Nako8k/Sentinel-Workspace-Foundations/tree/main)
 
   - Azure-Data-Connector-Pipeline
 
