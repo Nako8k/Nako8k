@@ -68,47 +68,6 @@
 
 ---
 
-## SOC Labs
-> Tools: Microsoft Sentinel, Defender XDR, KQL, Defender for Office 365, Log Analytics Workspace
- 
-| # | Lab | Focus | Status |
-|---|-----|-------|--------|
-| 01 | SIEM Detection Engineering | Build custom Sentinel analytics rules from scratch | Upcoming |
-| 02 | Incident Response Simulation | Full IR lifecycle — detect, triage, contain, recover | Upcoming |
-| 03 | Threat Hunting with KQL | Proactive hunting without alert triggers | Upcoming |
-| 04 | Log Ingestion & Data Connectors | Wire multiple sources into Sentinel | Upcoming |
-| 05 | Phishing Analysis & Email Security | Defender for Office 365 detection and rule building | Upcoming |
- 
----
- 
-## Cloud Security Labs
-> Tools: Defender for Cloud, Azure AD, Conditional Access, PIM, Defender for Identity
- 
-| # | Lab | Focus | Status |
-|---|-----|-------|--------|
-| 01 | Defender for Cloud / CSPM | Deploy vulnerable Azure env, flag and remediate | Upcoming |
-| 02 | Zero Trust Architecture | Conditional Access, PIM, JIT VM access, MFA | Upcoming |
-| 03 | Azure AD Identity Attack & Defend | Simulate password spray + token theft, detect with Defender for Identity | Upcoming |
- 
----
- 
-## AI Security Labs
-> Tools: Microsoft Copilot for Security, Azure OpenAI, VirusTotal AI, Custom LLM environments
- 
-### AI as a Security Tool
-| # | Lab | Focus | Status |
-|---|-----|-------|--------|
-| 01 | AI-Assisted KQL Detection Lab | Use Copilot for Security to write, improve and explain KQL queries | Upcoming |
-| 02 | AI Threat Intel Summarisation Lab | LLM workflow to auto-summarise IOCs, TTPs and detection recommendations | Upcoming |
- 
-### Securing AI Systems
-| # | Lab | Focus | Status |
-|---|-----|-------|--------|
-| 03 | Prompt Injection Attack & Defend Lab | Demonstrate and mitigate prompt injection on an LLM-backed app | Upcoming |
-| 04 | AI Threat Modelling Lab | STRIDE threat model on an AI/Copilot integration, documented as a security review | Upcoming |
-
----
-
 ## Python for Security Automation
 > Scripting for real SOC and cloud security tasks — not general Python, security-specific automation.
  
