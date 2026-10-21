@@ -8,13 +8,14 @@
 ![Network+](https://img.shields.io/badge/CompTIA_Network%2B-E5202A?style=for-the-badge&logo=comptia&logoColor=white)
 ![CSAP](https://img.shields.io/badge/CompTIA_CSAP%2B-E5202A?style=for-the-badge&logo=comptia&logoColor=white)
 ![AZ-104](https://img.shields.io/badge/AZ--104_-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SC-200](https://img.shields.io/badge/SC--200_in_progress_-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SC-200](https://img.shields.io/badge/SC--200_-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 - [CompTIA CySA+](https://www.credly.com/badges/1c035407-32e3-46b9-b3de-b989025d1d81/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/72722038-2a04-497c-bf05-790a706282c1/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/b3dc755d-3872-4a8e-b4eb-ad495e040611/public_url)
 - [CompTIA CSAP](https://www.credly.com/badges/0e7a31d8-7932-4f3e-b570-5ca12aa0d829/public_url)
 - [Az-104](https://learn.microsoft.com/api/credentials/share/en-us/Tumanako-3799/AF18BB51C070A4CD?sharingId=5E09FA5FCD2C11CC)
+- [SC-200](https://learn.microsoft.com/en-us/users/tumanako-3799/credentials/d4ef129c587d459b?ref=https%3A%2F%2F)
 ---
 
 ## Tools 
